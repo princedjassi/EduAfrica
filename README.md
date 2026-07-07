@@ -1,0 +1,3 @@
+# EduAfrica
+
+Initial project scaffold.
