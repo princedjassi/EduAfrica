@@ -1,0 +1,10 @@
+{
+  "name": "@eduafrica/platform",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.17.0",
+  "scripts": {
+    "dev": "nx run-many --target=serve --all",
+    "build": "nx run-many --target=build --all"
+  }
+}
